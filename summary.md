@@ -1,8 +1,8 @@
 # Student Names 
-Henry Forsyth
+Emmanuel Oteng
 
 # Summary
-This is a testing doc to see if I can pull it into the website
+Building an electric skateboard
 
 # Date Started
-11-16-2000
+1-1-2024
